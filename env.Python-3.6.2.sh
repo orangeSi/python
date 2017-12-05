@@ -1,0 +1,1 @@
+/ifshk7/BC_PS/sikaiwei/python/hk_new/env.Python-3.6.2.sh
